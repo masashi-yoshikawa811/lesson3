@@ -1,0 +1,16 @@
+th{
+    background-color: aqua;
+}
+
+th,td {
+    /* 枠線を1本線指定 */
+     border: solid 1px;
+     width:auto;
+  }
+
+  table{
+    /* 枠線を1本線指定 */
+     border: solid 1px;
+     border-collapse:  collapse;
+     white-space: nowrap;
+   }
